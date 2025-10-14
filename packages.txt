@@ -1,6 +1,2 @@
+tesseract-ocr
 poppler-utils
-libgl1
-libglib2.0-0
-# tesseract-ocr and libtesseract-dev are intentionally commented out (OCR disabled)
-# tesseract-ocr
-# libtesseract-dev
